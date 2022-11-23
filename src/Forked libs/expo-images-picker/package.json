@@ -1,0 +1,82 @@
+{
+  "_from": "expo-images-picker",
+  "_id": "expo-images-picker@2.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-E3q8ZjT9MYj9MTxDyA6+Qw6FhUEYuS4hqMoXvQJzcgGNA6eO0lnL+aElodvXJ4E3wFSM8YCPxI3jK3dDHDdx6Q==",
+  "_location": "/expo-images-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "expo-images-picker",
+    "name": "expo-images-picker",
+    "escapedName": "expo-images-picker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/expo-images-picker/-/expo-images-picker-2.2.3.tgz",
+  "_shasum": "e2bbeb4a2b9f5d3f15de61ba40248c42b95761a0",
+  "_spec": "expo-images-picker",
+  "_where": "C:\\Users\\bk_j8\\Documents\\FamilyGallery",
+  "author": {
+    "name": "Natysoz"
+  },
+  "bugs": {
+    "url": "https://github.com/natysoz/expo-images-picker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "expo-image-manipulator": "~10.1.2",
+    "expo-media-library": "~13.0.3",
+    "styled-components": "^5.3.0"
+  },
+  "deprecated": false,
+  "description": "Expo images picker, Selecting Multiple images and videos from user device",
+  "devDependencies": {
+    "@babel/core": "~7.9.0",
+    "@types/react": "~16.9.41",
+    "@types/react-native": "~0.63.2",
+    "@types/styled-components": "^5.1.11",
+    "babel-preset-expo": "8.3.0",
+    "typescript": "~4.0.0"
+  },
+  "homepage": "https://github.com/natysoz/expo-images-picker#readme",
+  "keywords": [
+    "expo",
+    "images",
+    "images-picker",
+    "images picker",
+    "multiple images",
+    "images selector",
+    "media selector",
+    "picker",
+    "videos",
+    "imagepicker",
+    "multiple",
+    "Media Library"
+  ],
+  "license": "ISC",
+  "main": "index.ts",
+  "name": "expo-images-picker",
+  "peerDependencies": {
+    "react": "*",
+    "expo": ">=43.0.0",
+    "react-native": "*"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natysoz/expo-images-picker.git"
+  },
+  "version": "2.2.3"
+}
